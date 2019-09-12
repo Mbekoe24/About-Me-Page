@@ -1,0 +1,76 @@
+.picture {
+    width: 220px;
+    height: 235px;
+    position: relative;
+    top: -200px;
+    right: -360px;
+    margin-bottom: 100px;
+    border: 1px solid black;
+}
+
+.port {
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+
+
+h1 {
+    text-align: center;
+    border: bottom 10px solid black;
+
+
+}
+
+.phrase {
+    text-align: left;
+    border-top: 1px solid black;
+    font-weight: normal;
+    font-family: Verdana, Tahoma, sans-serif;
+    text-decoration: none;
+
+}
+
+.container {
+    text-align: center;
+    width: 400px;
+    height: 500px;
+    color: black;
+    font-weight: 100;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+}
+
+.facebook-link {
+    color: blue;
+    text-decoration: underline;
+
+}
+
+.insta-link {
+    color: blue;
+    text-decoration: underline;
+
+}
+
+
+.linked-link {
+    color: blue;
+    text-decoration: underline;
+
+}
+
+.github-link {
+    color: blue;
+    text-decoration: underline;
+
+}
+  
+
+.fixed-border{
+    border-bottom: 1px solid black;
+    
+}
