@@ -1,11 +1,11 @@
 .picture {
     width: 220px;
     height: 235px;
-    position: relative;
-    top: -200px;
-    right: -360px;
-    margin-bottom: 100px;
+    position: absolute;
+    top: 50px;
+    right: -300px;
     border: 1px solid black;
+    margin-bottom: 500px;
 }
 
 .port {
@@ -14,21 +14,36 @@
 
 }
 
-
+.portfolio-link {
+    color: black;
+}
 
 h1 {
     text-align: center;
-    border: bottom 10px solid black;
+    margin-bottom: 20px;
+    margin-top: -10px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+
+}
+
+h3 {
+    margin-top: 10px;
+    padding-top: 10px;
+}
 
 
+h4 {
+    margin-bottom: -5px;
 }
 
 .phrase {
     text-align: left;
     border-top: 1px solid black;
     font-weight: normal;
-    font-family: Verdana, Tahoma, sans-serif;
+    font-family: Georgia, Times, 'Times New Roman', serif;
     text-decoration: none;
+    padding-top: 20px;
+    margin-top: 0px;
 
 }
 
@@ -42,35 +57,45 @@ h1 {
     margin-left: auto;
     margin-right: auto;
     margin-top: 2rem;
+    position: relative;
+    border-top: 5px solid black;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+
 }
 
 .facebook-link {
-    color: blue;
+    color: black;
     text-decoration: underline;
 
 }
 
 .insta-link {
-    color: blue;
+    color: black;
     text-decoration: underline;
 
 }
 
 
 .linked-link {
-    color: blue;
+    color: black;
     text-decoration: underline;
 
 }
 
 .github-link {
-    color: blue;
+    color: black;
     text-decoration: underline;
 
-}
-  
 
-.fixed-border{
+
+}
+
+
+.fixed-border {
     border-bottom: 1px solid black;
-    
+}
+
+.bottom-border {
+    border-bottom: 5px solid black;
+    padding-top: 10px;
 }
